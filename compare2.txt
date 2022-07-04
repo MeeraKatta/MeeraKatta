@@ -1,0 +1,57 @@
+
+AUTHSTATE=compat
+CLCMD_PASSTHRU=1
+CLUSTER_OVERRIDE=yes
+DISPLAY=unix:0.0
+EDITOR=/usr/bin/vi
+ENV='${START[(_$-=1)+(_=0)-(_$-!=_${-%%*i*})]}'
+ERRNO=0
+EXTENDED_HISTORY=ON
+FCEDIT=/usr/bin/vi
+HISTFILE=//.kshhist
+HISTSIZE=5000
+HOME=/
+HOMEPATH=/
+HOST=r1m4p15
+HOSTNAME=r1m4p15
+ID=root
+IFS='
+'
+LANG=en_US
+LC_FASTMSG=true
+LC__FASTMSG=true
+LINENO=1
+LOCPATH=/usr/lib/nls/loc
+LOGIN=root
+LOGNAME=root
+MAIL=/usr/spool/mail/root
+MAILCHECK=3600
+MAILMSG='[YOU HAVE NEW MAIL]'
+NLSPATH=/usr/lib/nls/msg/%L/%N:/usr/lib/nls/msg/%L/%N.cat
+ODMDIR=/etc/objrepos
+OLDPWD=/
+OPTIND=1
+PATH=.:/usr/bin:/etc:/usr/sbin:/usr/ucb:/usr/bin/X11:/sbin:/usr/java7_64/jre/bin:/usr/java7_64/bin:/usr/lpp/htx/etc/scripts:/test/tools:/usr/es/sbin/cluster/utilities/
+PPID=18416280
+PS1='
+($?) $LOGIN @ $HOST: $PWD
+# '
+PS2='> '
+PS3='#? '
+PS4='+ '
+PWD=/var/hacmp/log
+RANDOM=3445
+RNINIT='-e -m -S -/ -h +hfrom +hdate +hkeywords +hsummary +horg'
+SECONDS=2838
+SHELL=/usr/bin/ksh
+SSH_CLIENT='10.231.146.246 62128 22'
+SSH_CONNECTION='10.231.146.246 62128 172.31.90.167 22'
+SSH_TTY=/dev/pts/1
+START[0]=//.kshrc
+TERM=xterm
+TERM_DEFAULT=lft
+TMOUT=0
+TZ=CST6CDT
+USER=root
+_=tsminst1
+_ismh=1
